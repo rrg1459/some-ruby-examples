@@ -7,5 +7,14 @@
 |leedbmysql.rb||Lee mysql2|
 |inicia.rb|llama a objeto (clase de moto)|
 |moto.rb| clase de motor|
+|ejecuta.rb|Ejecuta gammu smsd inject|A nivel mde terminal|
+|estado.rb|Valida el estado de gammu|de la aplicación smschatven en heroku|
+|gammu.rb|Prueba de envío de sms con gammu|
+|proceso.rb|Prueba con gema open3|
+|lee.rb|Lee un archivo plano|Valida si la linea es un número entero|
+|ping.rb|Prueba con gema net-ping|
+|ogp.rb|Prueba con gema open_graph_reader|Gema para buscar y analizar propiedades de OpenGraph en una URL o cadena determinada|
+|cifrado.rb|Ejemplo 1 de cifrado con clave inicial y clave de salida|
+|descifrado.rb|Ejemplo 2 de cifrado con clave inicial y clave de salida|
+|media.rb|Prueba con gema readline|
 .
-
