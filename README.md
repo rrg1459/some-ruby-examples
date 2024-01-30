@@ -17,4 +17,7 @@
 |cifrado.rb|Ejemplo 1 de cifrado con clave inicial y clave de salida|
 |descifrado.rb|Ejemplo 2 de cifrado con clave inicial y clave de salida|
 |media.rb|Prueba con gema readline|
+|iq.rb|Cálculo de inversión|Tratando de entender algoritmo de iqoption|
+|iq_1.rb|Cálculo de inversión simple|Tratando de entender algoritmo de iqoption|
+|iq_resp.rb|Cálculo de inversión simple con fondo inicial|Tratando de entender algoritmo de iqoption|
 .
