@@ -1,3 +1,7 @@
+
+# gem list benchmark
+require 'benchmark'
+
 # # forma 1
 @fibonacci_cache = {}
 
@@ -48,5 +52,5 @@ finish2 = Time.now
 diff1 = finish1 - start1
 diff2 = finish2 - start2
 
-puts "Time 1: #{diff1} secs"
+puts "\nTime 1: #{diff1} secs"
 puts "Time 2: #{diff2} secs"
