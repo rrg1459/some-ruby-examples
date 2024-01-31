@@ -20,4 +20,5 @@
 |iq.rb|Cálculo de inversión|Tratando de entender algoritmo de iqoption|
 |iq_1.rb|Cálculo de inversión simple|Tratando de entender algoritmo de iqoption|
 |iq_resp.rb|Cálculo de inversión simple con fondo inicial|Tratando de entender algoritmo de iqoption|
+|fibo.rb|Cálculo de fibonacci con memoización|Probando dos métodos|
 .
