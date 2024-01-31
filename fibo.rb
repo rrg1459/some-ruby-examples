@@ -1,3 +1,5 @@
+# Fibonacci con memoizacion
+# https://es.wikipedia.org/wiki/Memoizaci%C3%B3n
 
 # gem install benchmark
 require 'benchmark'
@@ -18,7 +20,6 @@ def fibonacci1(n)
   return result
 end
 
-
 # forma 2
 @cache = {}
 
@@ -31,7 +32,6 @@ def fibonacci2(n)
     @cache[n] = fibonacci2(n - 1) + fibonacci2(n - 2)
   end
 end
-
 
 # Ejemplo de uso
 puts "\nMethod 1"
