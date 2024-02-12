@@ -23,4 +23,7 @@
 |fibo.rb|Cálculo de fibonacci con memoización|Probando dos métodos|
 |parametros.rb|Recibe cantidad de parámetros variables|
 |ciclo.rb|Prueba con ciclos|
+|prog_benchmark.rb|El módulo Benchmark proporciona métodos para comparar el código Ruby, brindando informes detallados sobre el tiempo necesario para cada tarea.|
+|con_bang|Uso de memoria con bang|
+|sin_bang|Uso de memoria sin bang|
 .
