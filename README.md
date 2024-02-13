@@ -26,4 +26,5 @@
 |prog_benchmark.rb|El módulo Benchmark proporciona métodos para comparar el código Ruby, brindando informes detallados sobre el tiempo necesario para cada tarea.|
 |con_bang|Uso de memoria con bang|
 |sin_bang|Uso de memoria sin bang|
+|twohat.rb|Solución de moderación de contenido|
 .
