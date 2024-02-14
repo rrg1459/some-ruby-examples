@@ -27,4 +27,5 @@
 |con_bang|Uso de memoria con bang|
 |sin_bang|Uso de memoria sin bang|
 |twohat.rb|Solución de moderación de contenido|
+|actualizaModem.rb|Actualiza modem OSTENT|
 .
