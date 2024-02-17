@@ -28,4 +28,6 @@
 |sin_bang|Uso de memoria sin bang|
 |twohat.rb|Solución de moderación de contenido|
 |actualizaModem.rb|Actualiza modem OSTENT|
+|arregloFOR.rb|Ejemplo de arreglo for|
+|arregloEACH.rb|Ejemplo de arreglo each|
 .
