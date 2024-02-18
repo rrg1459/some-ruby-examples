@@ -30,4 +30,5 @@
 |actualizaModem.rb|Actualiza modem OSTENT|
 |arregloFOR.rb|Ejemplo de arreglo for|
 |arregloEACH.rb|Ejemplo de arreglo each|
+|openStruct.rb|Ejemplo de openStruct|
 .
