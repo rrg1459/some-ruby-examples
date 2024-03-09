@@ -32,4 +32,5 @@
 |arregloEACH.rb|Ejemplo de arreglo each|
 |openStruct.rb|Ejemplo de openStruct|
 |ciclo.rb|Uso de rand y loop|
+|fechas.rb|Dias, meses y años entre dos fechas|
 .
