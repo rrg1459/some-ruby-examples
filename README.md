@@ -33,4 +33,5 @@
 |openStruct.rb|Ejemplo de openStruct|
 |ciclo.rb|Uso de rand y loop|
 |fechas.rb|Dias, meses y años entre dos fechas|
+|pr.rb|Uso de case y rangos de numeros|
 .
