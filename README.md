@@ -36,4 +36,5 @@
 |pr.rb|Uso de case y rangos de numeros|
 |compar.rb|Comparar 3 booleanos con ActiveModel|
 |ciclo_por_lote.rb|Procesa ciclo por lote|
+|whatsapp.rb|Manda mensaje a whatsapp usando Twilio|
 .
