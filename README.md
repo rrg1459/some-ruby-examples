@@ -37,4 +37,5 @@
 |compar.rb|Comparar 3 booleanos con ActiveModel|
 |ciclo_por_lote.rb|Procesa ciclo por lote|
 |whatsapp.rb|Manda mensaje a whatsapp usando Twilio|
+|segundos.rb|Resta de dos fechas y resultados en años, meses y dias|
 .
